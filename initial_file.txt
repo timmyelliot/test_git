@@ -1,2 +1,1 @@
-this is a test of an initial file pushed into github
-
+this is a test of an initial file pushed.
